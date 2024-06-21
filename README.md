@@ -31,9 +31,10 @@ There are a total of nine labels in the dataset, each class representing a speci
 
 The label is defined in the `dataset.yaml` file and is organized in the following format:
 
-```yaml
+
 nc: 9
 names: ["doik", "IU", "minjung", "rose", "shokhrukh", "yeji", "isu", "zabo", "jisoo"]
+
 
 ## 4. How to Collect Data
 
